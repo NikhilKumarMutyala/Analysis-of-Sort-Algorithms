@@ -1,4 +1,4 @@
-# hello
+# Analysis of Sort Algorithms
 The goal of the assignment is to 1) compare and analyze sort algorithms from the perspectives of time complexity and actual execution time respectively and 2) learn of the advantage and disadvantage of empirical analysis and theoretical analysis. This is a practice of both empirical and mathematical analysis.
 
 General Plan for Empirical Analysis of Algorithm Time Efficiency
